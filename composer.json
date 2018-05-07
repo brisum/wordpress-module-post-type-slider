@@ -1,0 +1,23 @@
+{
+  "name": "brisum/wordpress-module-post-type-slider",
+  "description": "Wordpress Post Type Slider",
+  "keywords": [
+    "wordpress",
+    "post type",
+    "slider"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-post-type-slider",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\PostType\\Slider\\": "src/"
+    }
+  }
+}
